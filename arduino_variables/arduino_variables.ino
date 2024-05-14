@@ -49,7 +49,6 @@ void morseCode(int LED, float pace) {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  Serial.print(redLED_pace);
   morseCode(redLED, redLED_pace);
   morseCode(greenLED, greenLED_pace);
   morseCode(blueLED, blueLED_pace);
