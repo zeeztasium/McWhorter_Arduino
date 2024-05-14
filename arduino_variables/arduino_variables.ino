@@ -5,7 +5,7 @@ int dit = 100;
 int dah = 500;
 int longW = 1000;
 
-float redLED_pace = 1.0/2.0; // 5 times faster; NB DON'T FORGET TO PUT A DOT BETWEEN
+float redLED_pace = 1.0/5.0; // 5 times faster; NB DON'T FORGET TO PUT A DOT BETWEEN
 int greenLED_pace = 10; // 10 times slower
 int blueLED_pace = 15; // 15 times slower
 
