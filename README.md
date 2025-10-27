@@ -27,7 +27,7 @@ This repository collects **Arduino example sketches** based on *Paul McWhorter�
 - Provide clean, easy-to-understand example code
 - Be a reference / starting point for personal experimentation and extension
 
-These are **not full-fledged “big projects”** — they are small, focused sketches each illustrating one or a few concepts.
+These are not full-fledged “big projects” but rather small, focused sketches each illustrating one or a few concepts.
 
 ---
 
